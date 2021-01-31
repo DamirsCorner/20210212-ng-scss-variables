@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+  --color-text: #111111;
+  --color-link: #125699;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+div {
+  margin-bottom: 10px;
+}
