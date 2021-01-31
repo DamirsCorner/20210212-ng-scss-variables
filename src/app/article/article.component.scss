@@ -1,11 +1,13 @@
+@import "../../vars";
+
 .container {
-  color: var(--color-text);
+  color: $color-text;
 
   .title {
     font-size: 2em;
   }
 
   .category {
-    color: var(--color-link);
+    color: $color-link;
   }
 }
